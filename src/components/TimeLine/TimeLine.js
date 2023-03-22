@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Quality focused creative web developer with 7+ years of experience in
+        Quality focused creative web developer with 9+ years of experience in
         website development using modern UI/UX building technologies and well
         tested/security backend, based on customer satisfy.
       </SectionText>
